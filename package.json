@@ -1,0 +1,26 @@
+{
+  "name": "smart-compost",
+  "version": "0.0.0",
+  "description": "Dumber than it sounds.",
+  "main": "fetch.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+      "spark": "0.2.4"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "edit-google-spreadsheet": "0.2.13",
+    "moment": "2.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgaull/smart-compost"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "spark"
+  ]
+}
